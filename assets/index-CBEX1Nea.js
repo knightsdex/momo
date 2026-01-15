@@ -17223,11 +17223,11 @@ const _2 = () => {
       className: `MediaLinks ${d && "MediaLinks_large"}`,
       children: [
         et.jsx("a", {
-          href: "https://t.me/momocoin_eth",
+          href: "https://t.me/momoonErc",
           children: et.jsx("img", { src: "/img/tg.png", alt: "" }),
         }),
         et.jsx("a", {
-          href: "https://x.com/Momocoin_eth",
+          href: "https://x.com/momoonErc",
           children: et.jsx("img", { src: "/img/x.png", alt: "" }),
         }),
         et.jsx("a", {
